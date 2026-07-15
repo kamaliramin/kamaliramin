@@ -1,6 +1,6 @@
 # Hi, I'm Ramin Kamali
 
-I'm a backend-focused software engineer who enjoys turning complex business requirements into reliable systems and building practical AI-powered tools.
+I'm a Backend, DevOps, and AI Engineer who enjoys turning complex business requirements into reliable systems and building practical AI-powered tools.
 
 ## What I work with
 
@@ -8,6 +8,12 @@ I'm a backend-focused software engineer who enjoys turning complex business requ
 - **Data:** PostgreSQL, pandas
 - **Async and infrastructure:** Celery, Redis, Docker
 - **Applied AI:** LangChain, Gemini, data-analysis agents
+
+## Current work
+
+### [Regal](https://myregal.ir) — Backend, DevOps & AI Engineer
+
+I'm actively building Regal across backend engineering, deployment and operational reliability, and practical AI capabilities. Regal's source code is private; its public website is available at [myregal.ir](https://myregal.ir).
 
 ## Featured project
 
