@@ -28,6 +28,10 @@ The system includes data-integrity checks to prevent invalid rows, controlled co
 
 I designed and built a private data pipeline that collects daily vehicle pricing from Telegram channels and automotive websites, transforms it into structured market data, and persists it for analysis. The system uses Python, Telethon, MariaDB, and Docker. Its source code and operational details remain private.
 
+### Codalist — Tehran Stock Exchange Report Analyst
+
+I built a private research bot that collects monthly reports across Tehran Stock Exchange companies, analyzes and categorizes their results, and produces a comprehensive comparative report. I can query it to identify the strongest and weakest reports against selected criteria and calculate increases or decreases across specific report sections. Codalist is a personal analytical tool; its source code and collected data remain private.
+
 ## MQL and MetaTrader
 
 I'm a professional MQL developer specializing in Expert Advisors (automated trading systems) for MetaTrader. I also create educational videos that explain the implementation line by line, helping developers understand the design and logic behind each trading bot.
