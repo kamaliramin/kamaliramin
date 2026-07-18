@@ -13,6 +13,7 @@ I also bring seven years of professional experience across Forex and the Tehran 
 - **Backend:** Python, Django, Django REST Framework
 - **Data:** PostgreSQL, pandas
 - **Async and infrastructure:** Celery, Redis, Docker
+- **Quality and automation:** QA, testing, test automation, team workflows
 - **Applied AI:** LangChain, Gemini, data-analysis agents
 - **Algorithmic trading:** MQL, MetaTrader, Expert Advisors
 
@@ -59,4 +60,4 @@ A Persian-language Streamlit application for exploring CSV and Excel datasets th
 - Useful documentation and reproducible development environments
 - Continuous learning through real-world projects
 
-I'm currently focused on backend engineering, system reliability, and responsible AI integration.
+I'm currently focused on backend engineering, DevOps, system reliability, QA and test automation, responsible AI integration, and designing automation workflows that improve my team's delivery process.
