@@ -8,6 +8,7 @@ I'm a Backend, DevOps, and AI Engineer who enjoys turning complex business requi
 - **Data:** PostgreSQL, pandas
 - **Async and infrastructure:** Celery, Redis, Docker
 - **Applied AI:** LangChain, Gemini, data-analysis agents
+- **Algorithmic trading:** MQL, MetaTrader, Expert Advisors
 
 ## Current work
 
@@ -26,6 +27,12 @@ The system includes data-integrity checks to prevent invalid rows, controlled co
 ### Mashinfo — Car Market Data Platform
 
 I designed and built a private data pipeline that collects daily vehicle pricing from Telegram channels and automotive websites, transforms it into structured market data, and persists it for analysis. The system uses Python, Telethon, MariaDB, and Docker. Its source code and operational details remain private.
+
+## MQL and MetaTrader
+
+I'm a professional MQL developer specializing in Expert Advisors (automated trading systems) for MetaTrader. I also create educational videos that explain the implementation line by line, helping developers understand the design and logic behind each trading bot.
+
+Watch the tutorials on YouTube: [@mqlexpert](https://www.youtube.com/@mqlexpert)
 
 ## Featured project
 
