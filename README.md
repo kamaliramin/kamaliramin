@@ -30,7 +30,9 @@ I designed and built a private data pipeline that collects daily vehicle pricing
 
 ### Codalist — Tehran Stock Exchange Report Analyst
 
-I built a private research bot that collects monthly reports across Tehran Stock Exchange companies, analyzes and categorizes their results, and produces a comprehensive comparative report. I can query it to identify the strongest and weakest reports against selected criteria and calculate increases or decreases across specific report sections. Codalist is a personal analytical tool; its source code and collected data remain private.
+I built a private research bot that collects monthly reports across Tehran Stock Exchange companies, analyzes and categorizes their results, and produces a comprehensive comparative report. I can query it to identify the strongest and weakest reports against selected criteria and calculate increases or decreases across specific report sections.
+
+For any requested stock and monthly period, Codalist also generates industry-aware bar charts with a brief written analysis. For manufacturing companies, it compares product categories on the x-axis against sales value on the y-axis. For banks, insurers, investment firms, leasing companies, and other financial businesses, it adapts the categories and metrics to the company's reporting model. Codalist is a personal analytical tool; its source code and collected data remain private.
 
 ## MQL and MetaTrader
 
