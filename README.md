@@ -2,6 +2,12 @@
 
 I'm a Backend, DevOps, and AI Engineer who enjoys turning complex business requirements into reliable systems and building practical AI-powered tools.
 
+## Background
+
+I hold a Master's degree in Mechanical Engineering. Programming was a consistent part of my academic work, and my thesis was built primarily through software development and computational work.
+
+I also bring seven years of professional experience across Forex and the Tehran Stock Exchange. I combine that financial-domain knowledge with programming by turning the methods I use in practice into software: my technical market experience informs my MetaTrader Expert Advisors, while my fundamental-analysis experience shapes Codalist and its company-report analysis.
+
 ## What I work with
 
 - **Backend:** Python, Django, Django REST Framework
